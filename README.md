@@ -10,5 +10,5 @@ How to run?
 	+ insmod button_ctr.ko
 	+ insmod lcd_driver.ko
 - run ./user/mysnake	<speed>
-	ex :
+- ex :
 	+ ./user/mysnake 30
