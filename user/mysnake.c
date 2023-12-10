@@ -27,11 +27,6 @@
 #define MODE_CONTROL_MPU  2
 
 
-struct mpu_xyz {
-	int x;
-	int y;
-	int z;
-};
 
 static int speed = 10;
 //enum direction_t {zeros, up , down ,left ,right};
