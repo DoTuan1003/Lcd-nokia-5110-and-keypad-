@@ -1,11 +1,3 @@
-
-/*
-** @This file based on button.c of Derek Molloy and has modified
-** @to control 4 buttons
-** @Link: https://github.com/sdwuyawen/BeagleBoneBlack/blob/master/button/button.c
-** @Author: vuhailongkl97@gmail.com
-** 	    Tungnt58 (Add send signal to userspace functionality)
-*/
 #include <linux/delay.h>
 #include <linux/init.h>
 #include <linux/module.h>
